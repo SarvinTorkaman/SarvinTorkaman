@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarvinTorkaman
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java script and Html & CSS
+- 🌱 I’m currently learning Javascript and Html & CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sarvin.to@gmail.com
 
